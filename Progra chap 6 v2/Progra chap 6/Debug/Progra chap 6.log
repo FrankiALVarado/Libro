@@ -1,0 +1,6 @@
+﻿  chap6.cpp
+c:\users\frank\onedrive\escritorio\progra chap 6\progra chap 6\chap6.cpp(6): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\frank\onedrive\escritorio\progra chap 6\progra chap 6\chap6.cpp(20): warning C4018: '<': no coinciden signed/unsigned
+c:\users\frank\onedrive\escritorio\progra chap 6\progra chap 6\chap6.cpp(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\frank\onedrive\escritorio\progra chap 6\progra chap 6\chap6.cpp(31): warning C4018: '<': no coinciden signed/unsigned
+  Progra chap 6.vcxproj -> C:\Users\frank\OneDrive\Escritorio\Progra chap 6\Debug\Progra chap 6.exe

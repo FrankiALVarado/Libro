@@ -1,0 +1,9 @@
+﻿  progra 7.cpp
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(121): warning C4018: '<': no coinciden signed/unsigned
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(128): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(138): warning C4018: '<': no coinciden signed/unsigned
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(124): warning C4715: 'get_value': no todas las rutas de acceso de control devuelven un valor
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(91): warning C4715: 'Token_stream::get': no todas las rutas de acceso de control devuelven un valor
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(165): warning C4715: 'primary': no todas las rutas de acceso de control devuelven un valor
+c:\users\frank\onedrive\escritorio\progra 7\progra 7\progra 7.cpp(244): warning C4715: 'function': no todas las rutas de acceso de control devuelven un valor
+  Progra 7.vcxproj -> C:\Users\frank\OneDrive\Escritorio\Progra 7\Debug\Progra 7.exe

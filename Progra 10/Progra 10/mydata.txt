@@ -1,0 +1,7 @@
+punto x: 84  punto y: 26
+punto x: 20  punto y: 52
+punto x: 15  punto y: 26
+punto x: 47  punto y: 82
+punto x: 6  punto y: 25
+punto x: 17  punto y: 59
+punto x: 62  punto y: 51

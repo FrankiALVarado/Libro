@@ -294,7 +294,11 @@ void battle(Player & p, Enemy & x)
 		cout << "El golpe de oportunidad lo gana " << p.nombre << " inflige " << p.ataque - x.defensa << "hits" << endl;
 	}
 	while (p.vida < 0 || x.vida > 0) {
-
+		if (x.velocidad < p.velocidad) {
+			x.vida = x.vida - (p.ataque - x.defensa);
+			cout << "has infligido " << p.ataque - x.defensa << "hits" << endl;
+			cout << "te han infligido" << p.defensa - x.ataque << "hits" << endl;
+		}
 	}
 
 	if (x.vida <= 0){

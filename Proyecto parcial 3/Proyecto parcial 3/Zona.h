@@ -30,7 +30,7 @@ public:
 	void print_Adjacent(const Zone & x);  
 	void start_Player(Player &p, Zone & z); 
 	Zone(Enemy x, bool in, bool already, bool l, bool r, bool m ,bool bl, bool bm, bool br, Player p, Zone * izq, Zone * med, Zone * der, Zone * back, Zone * backl, Zone * backr);
-
+	void delete_pointers(Zone * izq, Zone * med, Zone * der, Zone * back, Zone * backl, Zone * backr);
 	~Zone();
 };
 

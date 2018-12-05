@@ -41,7 +41,7 @@ void Player::initialize_stats(Player & r)
 	r.exp = 0;
     r.vida = 200;
 	r.ataque = 10;
-	r.defensa = 10;
+	r.defensa = 1;
 	r.velocidad = 100;
 }
 

@@ -80,6 +80,10 @@ Zone::Zone(Enemy x, bool in, bool already, bool l, bool r, bool m,bool bl, bool 
 	backr = nullptr;
 }
 
+void Zone::delete_pointers(Zone * izq, Zone * med, Zone * der, Zone * back, Zone * backl, Zone * backr)
+{
+}
+
 Zone::~Zone()
 {
 }

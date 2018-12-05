@@ -1,0 +1,9 @@
+name, Has despertado en un pueblo olvidado por los Dioses, te ha cuidado una curandera joven local desde que te encontraron moribundo hace unas semanas
+Se escucha una multitud haciendo relajo por recientes ataques de goblins, cuando de repente salta uno encima de la curandera y tienes que defenderla
+battle 
+
+La curandera te agradece y te cuenta como desde que el viejo reino de Tresia fue derrotado todo se ha descontrolado en Paragnis.
+Sientes que es tu destino dirigirte a Tresia, te dirigen a un cuarto con tus posesiones pasadas, una túnica noble pero desgastada, botas ligeras y un extraño anillo
+La curandera te cuenta como fue en verdad el día que llegaste a la región menos poblada, Nemelquin,  que se encuentra en el extremo este de Paragnis
+Dicho esto te despides de la curandera y de Nemelquin para iniciar tu viaje a Tresia.
+travel  
